@@ -1,0 +1,20 @@
+[
+	{
+		"Nome" : "Pelicano",
+		"Ataque" :200 ,
+		"Vida" : 500,
+   "Nome Ataque":"Tubarôes,Raias e Vieiras" , "Defesa" :100 , "Experiência" :1050	},
+	{
+		"Nome" : "Luciano",
+		"Ataque" : 25,
+		"Vida" : 100,
+    "Nome Ataque":"Python",		"Defesa" : 10 , "Experiência" :1500
+
+	},
+	{
+		"Nome" : "Carareto",
+		"Ataque" : 15,
+		"Vida" : 300,
+	"Nome Ataque":"Erro Sistemático Residual",	"Defesa" : 10
+ , "Experiência" :1900	}
+]
